@@ -19,10 +19,13 @@
     "eslint-plugin-import": "^2.28.1",
     "eslint-plugin-n": "^15.7.0",
     "eslint-plugin-promise": "^6.1.1",
+<<<<<<< HEAD
     "husky": "^8.0.3",
     "jest": "^29.6.3",
     "lint-staged": "^14.0.1",
     "ts-jest": "^29.1.1",
+=======
+>>>>>>> 4c13fadb87c4b5167ebe0b46422f543fe888bba5
     "typescript": "^5.1.6"
   }
 }
