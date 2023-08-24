@@ -10,6 +10,7 @@ const config = {
   collectCoverageFrom: ['<rootDir>/src/**/*.ts'],
   coverageDirectory: "coverage",
   coverageProvider: "v8",
+  coveragePathIgnorePatterns: ["/node_modules/","/coverage/"],
   testEnvironment: "node",
   transform: {
     '.+\\.ts$': 'ts-jest'
